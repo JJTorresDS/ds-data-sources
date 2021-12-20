@@ -1,2 +1,1 @@
-# stocks-ds-edu
-Datasets of stocks to teach data science concepts (i.e descriptive stats, correlation, regression, clusterint, etc.)
+Data sets that can be used to train students in data science related topics.
